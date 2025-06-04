@@ -12,9 +12,7 @@ Visualize demographic disparities using gender, race, and group stratifications
 Highlight public health risks with confidence interval metrics and national average flags
 
 🧱 Tech Stack & Architecture
-scss
-Copy
-Edit
+
 CDC Dataset (CSV)
     ↓
 Azure Blob Storage
@@ -26,6 +24,9 @@ Python (Pandas) for data cleaning & transformation
 Snowflake (Star Schema: Fact + Dimensions)
     ↓
 Power BI (Dashboard Visualizations & KPIs)
+
+
+
 📁 Features & Functionality
 ETL Pipeline:
 Uploaded raw CSV to Azure → Ingested via Snowflake external stage → Cleaned using Python → Stored as star schema
