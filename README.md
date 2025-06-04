@@ -14,16 +14,17 @@ Highlight public health risks with confidence interval metrics and national aver
 🧱 Tech Stack & Architecture
 
 CDC Dataset (CSV)
-    ↓
+    ->
 Azure Blob Storage
-    ↓
+    ->
 Snowflake (External Stage + SQL Data Warehouse)
-    ↓
+    ->
 Python (Pandas) for data cleaning & transformation
-    ↓
+    ->
 Snowflake (Star Schema: Fact + Dimensions)
-    ↓
+    ->
 Power BI (Dashboard Visualizations & KPIs)
+
 
 
 
