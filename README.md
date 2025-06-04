@@ -1,4 +1,4 @@
-# 🩺 Chronic Disease Surveillance Dashboard
+# 🩺 Chronic Disease Surveillance 
 Tools Used: Snowflake · Python · Azure Blob Storage · Power BI
 
 ![image](https://github.com/user-attachments/assets/52f91042-8a52-4401-b213-c55fbfefb68a)
