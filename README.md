@@ -1,6 +1,9 @@
 # 🩺 Chronic Disease Surveillance Dashboard
 Tools Used: Snowflake · Python · Azure Blob Storage · Power BI
 
+![image](https://github.com/user-attachments/assets/52f91042-8a52-4401-b213-c55fbfefb68a)
+
+
 ## 📊 Project Overview
 This project presents a full-stack healthcare analytics solution that tracks chronic disease trends across the United States between 2015–2022. Using open-source CDC datasets, the solution enables public health insights across time, geography, and demographic groups.
 
