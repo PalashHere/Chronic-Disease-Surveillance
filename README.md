@@ -1,17 +1,17 @@
 # 🩺 Chronic Disease Surveillance Dashboard
 Tools Used: Snowflake · Python · Azure Blob Storage · Power BI
 
-📊 Project Overview
+## 📊 Project Overview
 This project presents a full-stack healthcare analytics solution that tracks chronic disease trends across the United States between 2015–2022. Using open-source CDC datasets, the solution enables public health insights across time, geography, and demographic groups.
 
-🚀 Objective
+## 🚀 Objective
 Analyze chronic disease indicators (e.g., obesity, diabetes, cancer) across states and years
 
 Visualize demographic disparities using gender, race, and group stratifications
 
 Highlight public health risks with confidence interval metrics and national average flags
 
-🧱 Tech Stack & Architecture
+## 🧱 Tech Stack & Architecture
 
 CDC Dataset (CSV)
     ->
@@ -28,7 +28,7 @@ Power BI (Dashboard Visualizations & KPIs)
 
 
 
-📁 Features & Functionality
+## 📁 Features & Functionality
 ETL Pipeline:
 Uploaded raw CSV to Azure → Ingested via Snowflake external stage → Cleaned using Python → Stored as star schema
 
@@ -40,13 +40,19 @@ Dimensions: Date, State, Topic, Group, Question, ValueType
 
 Power BI Dashboard Includes:
 ✅ KPI Cards
+
 ✅ Time-Series Trends
+
 ✅ Geo Mapping by State
+
 ✅ Demographic Breakdown (Group Category / Group Name)
+
 ✅ Drilldowns & Flags for Above Avg. Analysis
+
 ✅ Raw Data Explorer with slicers
 
-📌 Key Insights
+
+## 📌 Key Insights
 Obesity and diabetes show increasing post-COVID prevalence in many southern states
 
 Female and Hispanic groups showed higher prevalence rates in several indicators
@@ -55,7 +61,7 @@ Confidence intervals vary significantly by condition and group type, indicating 
 
 Flags identify outlier states performing above national health benchmarks
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 Cloud Data Engineering (Snowflake, Azure Blob)
 
 Data Wrangling (Python, Pandas)
@@ -66,5 +72,5 @@ BI Reporting & DAX (Power BI)
 
 SQL Scripting (Snowflake SQL)
 
-📎 Dataset Source
+## 📎 Dataset Source
 CDC Chronic Disease Indicators Dataset - https://data.cdc.gov/
