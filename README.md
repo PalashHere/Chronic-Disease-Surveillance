@@ -2,6 +2,9 @@
 Tools Used: Snowflake · Python · Azure Blob Storage · Power BI
 
 ![image](https://github.com/user-attachments/assets/52f91042-8a52-4401-b213-c55fbfefb68a)
+![Screenshot 2025-06-25 122745](https://github.com/user-attachments/assets/baa1caaf-3b2a-421a-bb9f-d8ea50985863)
+![Screenshot 2025-06-25 122827](https://github.com/user-attachments/assets/928234ae-0628-46bd-bb6e-d370ce61fccc)
+
 
 
 ## 📊 Project Overview
